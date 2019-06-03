@@ -1,1 +1,2 @@
 # myapp
+#Learning notes
