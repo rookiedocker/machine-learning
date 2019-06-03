@@ -10,3 +10,7 @@
 ![images](https://github.com/rookiedocker/machine-learning/blob/master/images/4.jpg)
 认知三部曲
 ![images](https://github.com/rookiedocker/machine-learning/blob/master/images/5.jpg)
+数据挖掘需要掌握的知识
+![images](https://github.com/rookiedocker/machine-learning/blob/master/images/6.jpg)
+如何学习Python
+![images](https://github.com/rookiedocker/machine-learning/blob/master/images/7.jpg)
