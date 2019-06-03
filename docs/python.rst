@@ -3,6 +3,8 @@ axis=0是跨行(纵向) axis=1是跨列(横向)
 
 .. figure:: ../images/8.jpg
 Pandas中的核心数据结构Series(定长的字典序列，相当于两个ndarray，含有index和values两个基本属性)和DataFrame(类似数据库表，包括行索引和列索引)  
+在python里可以直接使用SQL语句来操作Pandas：pandasql
+
 
 .. figure:: ../images/9.jpg
 
