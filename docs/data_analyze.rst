@@ -6,6 +6,9 @@
 
 数据元：最小数据单元
 
-Knowledge Discovery Database
-
+Knowledge Discovery Database：数据预处理中对数据进行：数据清洗、数据集成、数据变换
 .. figure:: ../images/11.jpg
+用户是数据分析的出发点，用户画像建模步骤
+.. figure:: ../images/12.jpg
+按照数据流处理的阶段来划分用户画像建模的过程，可以分为数据层、算法层、业务层
+.. figure:: ../images/13.jpg
