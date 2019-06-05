@@ -17,3 +17,4 @@ Knowledge Discovery Database：数据预处理中对数据进行：数据清洗�
 全面性：检查数据定义、单位标识、数值本身
 合法性：数据的类型、内容、大小的合法性
 唯一性：数据是否存在重复记录(一个列有多个参数，用split拆分|drop_duplicates()删除重复数据)
+.. figure:: ../images/14.jpg
