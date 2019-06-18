@@ -22,3 +22,9 @@ Knowledge Discovery Database：数据预处理中对数据进行：数据清洗�
 唯一性：数据是否存在重复记录(一个列有多个参数，用split拆分|drop_duplicates()删除重复数据)  
 
 .. figure:: ../images/14.jpg
+
+数据集成的两种架构: ELT and ETL
+Extract->Load->Transform  Extract->Transform->Load (Kettle Pentaho\DataX Ali)
+
+Apache opensource software: Sqoop
+Sqoop用来在Hadoop和关系型数据库中传递数据。通过Sqoop，可以方便的将数据从关系型数据库导入到HDFS或者将数据从HDFS导出到关系型数据库。
