@@ -10,3 +10,5 @@ Pandas中的核心数据结构Series(定长的字典序列，相当于两个ndar
 
 .. figure:: ../images/10.jpg
 
+.. figure:: ../images/18.jpg
+
