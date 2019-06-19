@@ -47,3 +47,4 @@ Sqoop用来在Hadoop和关系型数据库中传递数据。通过Sqoop，可以�
 .. figure:: ../images/20.jpg
 
 .. figure:: ../images/21.jpg
+
